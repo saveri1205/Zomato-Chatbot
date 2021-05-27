@@ -23,7 +23,7 @@ To Display the reviews or for giving feedback:
 * A prompt will be displayed.
 * In the prompt, type the response which the chatbot should give. The feedback can be assertive or a statement which the chatbot should give as a response.
 * The response given will get stored in the Logged_responses.json file
-* In order to display the top reviews for a restaurant, type “No” when the bot asks “Was this satisfactory?”
+* In order to display the top 10 reviews for a restaurant, type “No” when the bot asks “Was this satisfactory?”
 * In the prompt, type “Display the top 10 reviews of Jalsa restaurant” for the reviews. 
 * The reviews for that restaurant gets displayed.
 * The extracted reviews and the intent is extracted and will be stored in Logged_responses.json file.
